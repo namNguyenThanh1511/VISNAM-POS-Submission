@@ -1,0 +1,11 @@
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.dal\bin\Debug\net8.0\visnam.pos.dal.deps.json
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.dal\bin\Debug\net8.0\visnam.pos.dal.dll
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.dal\bin\Debug\net8.0\visnam.pos.dal.pdb
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.dal\obj\Debug\net8.0\visnam.pos.dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.dal\obj\Debug\net8.0\visnam.pos.dal.AssemblyInfoInputs.cache
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.dal\obj\Debug\net8.0\visnam.pos.dal.AssemblyInfo.cs
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.dal\obj\Debug\net8.0\visnam.pos.dal.csproj.CoreCompileInputs.cache
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.dal\obj\Debug\net8.0\visnam.pos.dal.dll
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.dal\obj\Debug\net8.0\refint\visnam.pos.dal.dll
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.dal\obj\Debug\net8.0\visnam.pos.dal.pdb
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.dal\obj\Debug\net8.0\ref\visnam.pos.dal.dll

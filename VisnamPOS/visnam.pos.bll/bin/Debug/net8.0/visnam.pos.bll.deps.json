@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "visnam.pos.bll/1.0.0": {
+        "dependencies": {
+          "visnam.pos.dal": "1.0.0"
+        },
+        "runtime": {
+          "visnam.pos.bll.dll": {}
+        }
+      },
+      "visnam.pos.dal/1.0.0": {
+        "runtime": {
+          "visnam.pos.dal.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "visnam.pos.bll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "visnam.pos.dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

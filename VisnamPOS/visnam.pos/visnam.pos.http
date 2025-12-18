@@ -1,0 +1,6 @@
+@visnam.pos_HostAddress = http://localhost:5072
+
+GET {{visnam.pos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

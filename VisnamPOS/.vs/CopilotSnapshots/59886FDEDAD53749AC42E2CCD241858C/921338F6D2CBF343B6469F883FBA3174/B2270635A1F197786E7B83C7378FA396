@@ -1,0 +1,9 @@
+﻿namespace visnam.pos.dal.Models
+{
+    public class Order
+    {
+        public Guid OrderId { get; set; }
+        public decimal TotalAmount { get; set; }
+        public DateTime CreatedAt { get; set; }
+    }
+}

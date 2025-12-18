@@ -1,0 +1,46 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.SignalR;
+using visnam.pos.bll.DTOs;
+using visnam.pos.dal;
+using visnam.pos.dal.Models;
+
+namespace visnam.pos.api.Controllers
+{
+    [Route("api/orders")]
+    [ApiController]
+    public class OrderController : ControllerBase
+    {
+
+        private readonly IHubContext<visnam.pos.api.Hubs.OrderHub> _hubContext;
+
+        public OrderController(IHubContext<visnam.pos.api.Hubs.OrderHub> hubContext)
+        {
+            _hubContext = hubContext;
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateOrder([FromBody] CreateOrderRequest request)
+        {
+            var order = new Order
+            {
+                OrderId = Guid.NewGuid(),
+                TotalAmount = request.TotalAmount,
+                CreatedAt = DateTime.Now
+            };
+
+            FakeDatabase.Orders.Add(order);
+
+            await _hubContext.Clients.All
+                .SendAsync("OrderCreated", order);
+
+            return Ok(order);
+        }
+
+        [HttpGet]
+        public IActionResult GetOrders()
+        {
+            return Ok(FakeDatabase.Orders);
+        }
+
+    }
+}

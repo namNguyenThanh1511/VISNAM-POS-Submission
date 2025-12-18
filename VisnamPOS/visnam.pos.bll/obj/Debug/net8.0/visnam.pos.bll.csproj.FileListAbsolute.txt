@@ -1,0 +1,15 @@
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\bin\Debug\net8.0\visnam.pos.bll.deps.json
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\bin\Debug\net8.0\visnam.pos.bll.dll
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\bin\Debug\net8.0\visnam.pos.bll.pdb
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\bin\Debug\net8.0\visnam.pos.dal.dll
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\bin\Debug\net8.0\visnam.pos.dal.pdb
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\obj\Debug\net8.0\visnam.pos.bll.csproj.AssemblyReference.cache
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\obj\Debug\net8.0\visnam.pos.bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\obj\Debug\net8.0\visnam.pos.bll.AssemblyInfoInputs.cache
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\obj\Debug\net8.0\visnam.pos.bll.AssemblyInfo.cs
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\obj\Debug\net8.0\visnam.pos.bll.csproj.CoreCompileInputs.cache
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\obj\Debug\net8.0\visnam.p.AA8EC50F.Up2Date
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\obj\Debug\net8.0\visnam.pos.bll.dll
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\obj\Debug\net8.0\refint\visnam.pos.bll.dll
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\obj\Debug\net8.0\visnam.pos.bll.pdb
+D:\temp\VISNAM-TEST\VisnamPOS\visnam.pos.bll\obj\Debug\net8.0\ref\visnam.pos.bll.dll

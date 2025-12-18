@@ -1,0 +1,38 @@
+﻿using visnam.pos.api.Hubs;
+using visnam.pos.bll.Services;
+using visnam.pos.dal.Repositories;
+
+var builder = WebApplication.CreateBuilder(args);
+// Add services to the container.
+
+builder.Services.AddControllers();
+builder.Services.AddSignalR();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy", policy =>
+    {
+        policy
+            .WithOrigins("http://localhost:5173", "http://localhost:3000")
+            .AllowAnyHeader()
+            .AllowAnyMethod()
+            .AllowCredentials(); //for signalR
+    });
+});
+
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IOrderService, OrderService>();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+
+app.UseHttpsRedirection();
+app.UseCors("CorsPolicy");
+app.MapHub<OrderHub>("/orderHub");
+app.MapControllers();
+
+app.Run();
+
+

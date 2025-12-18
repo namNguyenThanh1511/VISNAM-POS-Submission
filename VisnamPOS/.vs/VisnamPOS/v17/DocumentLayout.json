@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5DDDA9-4C1D-472C-91C9-B2FC22DD0085}|visnam.pos\\visnam.pos.api.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D5DDDA9-4C1D-472C-91C9-B2FC22DD0085}|visnam.pos\\visnam.pos.api.csproj|solutionrelative:visnam.pos\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5DDDA9-4C1D-472C-91C9-B2FC22DD0085}|visnam.pos\\visnam.pos.api.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5DDDA9-4C1D-472C-91C9-B2FC22DD0085}|visnam.pos\\visnam.pos.api.csproj|solutionrelative:visnam.pos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos.dal\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|solutionrelative:visnam.pos.dal\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos.dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|solutionrelative:visnam.pos.dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECA3582-FBB1-4355-93E2-664DFA23E62F}|visnam.pos.bll\\visnam.pos.bll.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos.bll\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECA3582-FBB1-4355-93E2-664DFA23E62F}|visnam.pos.bll\\visnam.pos.bll.csproj|solutionrelative:visnam.pos.bll\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECA3582-FBB1-4355-93E2-664DFA23E62F}|visnam.pos.bll\\visnam.pos.bll.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos.bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECA3582-FBB1-4355-93E2-664DFA23E62F}|visnam.pos.bll\\visnam.pos.bll.csproj|solutionrelative:visnam.pos.bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECA3582-FBB1-4355-93E2-664DFA23E62F}|visnam.pos.bll\\visnam.pos.bll.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos.bll\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECA3582-FBB1-4355-93E2-664DFA23E62F}|visnam.pos.bll\\visnam.pos.bll.csproj|solutionrelative:visnam.pos.bll\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECA3582-FBB1-4355-93E2-664DFA23E62F}|visnam.pos.bll\\visnam.pos.bll.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos.bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECA3582-FBB1-4355-93E2-664DFA23E62F}|visnam.pos.bll\\visnam.pos.bll.csproj|solutionrelative:visnam.pos.bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5DDDA9-4C1D-472C-91C9-B2FC22DD0085}|visnam.pos\\visnam.pos.api.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5DDDA9-4C1D-472C-91C9-B2FC22DD0085}|visnam.pos\\visnam.pos.api.csproj|solutionrelative:visnam.pos\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5DDDA9-4C1D-472C-91C9-B2FC22DD0085}|visnam.pos\\visnam.pos.api.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5DDDA9-4C1D-472C-91C9-B2FC22DD0085}|visnam.pos\\visnam.pos.api.csproj|solutionrelative:visnam.pos\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|solutionrelative:visnam.pos.dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|solutionrelative:visnam.pos.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos.dal\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|solutionrelative:visnam.pos.dal\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos.dal\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|solutionrelative:visnam.pos.dal\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|d:\\temp\\visnam-test\\visnampos\\visnam.pos.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F52336C5-FBBB-4FF9-8EFB-43F59F7CBCD2}|visnam.pos.dal\\visnam.pos.dal.csproj|solutionrelative:visnam.pos.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos\\Dockerfile",
+              "RelativeDocumentMoniker": "visnam.pos\\Dockerfile",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos\\Dockerfile",
+              "RelativeToolTip": "visnam.pos\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T10:27:19.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "visnam.pos.dal\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "visnam.pos.dal\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:19:25.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "visnam.pos.dal\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "visnam.pos.dal\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:19:25.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FakeDatabase.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\FakeDatabase.cs",
+              "RelativeDocumentMoniker": "visnam.pos.dal\\FakeDatabase.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\FakeDatabase.cs",
+              "RelativeToolTip": "visnam.pos.dal\\FakeDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:19:25.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "visnam.pos.dal\\Models\\Order.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\Models\\Order.cs",
+              "RelativeToolTip": "visnam.pos.dal\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:19:25.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "visnam.pos.dal\\Models\\Product.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\Models\\Product.cs",
+              "RelativeToolTip": "visnam.pos.dal\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:19:25.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos\\Program.cs",
+              "RelativeDocumentMoniker": "visnam.pos\\Program.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos\\Program.cs",
+              "RelativeToolTip": "visnam.pos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:54:52.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "visnam.pos\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "visnam.pos\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:54:43.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "visnam.pos\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "visnam.pos\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:54:38.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.bll\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "visnam.pos.bll\\Services\\OrderService.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.bll\\Services\\OrderService.cs",
+              "RelativeToolTip": "visnam.pos.bll\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:54:35.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.bll\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "visnam.pos.bll\\Services\\IOrderService.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.bll\\Services\\IOrderService.cs",
+              "RelativeToolTip": "visnam.pos.bll\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:54:31.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.bll\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "visnam.pos.bll\\Services\\ProductService.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.bll\\Services\\ProductService.cs",
+              "RelativeToolTip": "visnam.pos.bll\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:54:29.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.bll\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "visnam.pos.bll\\Services\\IProductService.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.bll\\Services\\IProductService.cs",
+              "RelativeToolTip": "visnam.pos.bll\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:54:26.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "visnam.pos.dal\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "visnam.pos.dal\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:54:23.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "visnam.pos.dal\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\temp\\VISNAM-TEST\\VisnamPOS\\visnam.pos.dal\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "visnam.pos.dal\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:54:20.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using visnam.pos.dal;
+
+namespace visnam.pos.api.Controllers
+{
+    [Route("api/products")]
+    [ApiController]
+    public class ProductController : ControllerBase
+    {
+        [HttpGet]
+        public IActionResult GetProducts()
+        {
+            return Ok(FakeDatabase.Products);
+        }
+
+    }
+}
